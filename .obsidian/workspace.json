@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "79a051f48468fc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "295aae04bbc1401e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2add8bfe294748d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关系型数据库/MySQL/锁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d549ca6d65b640f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8abadbdc4e4e4d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47596596de63a97b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ce39b96240c9aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f57313f7ae8af86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39997edcbc445ff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "40bf183a10442d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c692ccbed2d41b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "关系型数据库/MySQL/锁.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab242c4c944b9941",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "关系型数据库/MySQL/锁.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4ee23ad9da8014",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be8a4baac4beca83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "关系型数据库/MySQL/锁.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f2add8bfe294748d",
+  "lastOpenFiles": [
+    "非关系型数据库/Redis.md",
+    "非关系型数据库/Redis/基础数据结构.md",
+    "非关系型数据库/Redis",
+    "关系型数据库/MySQL/锁.md",
+    "关系型数据库/未命名.md",
+    "关系型数据库/MySQL",
+    "未命名",
+    "非关系型数据库",
+    "关系型数据库"
+  ]
+}
